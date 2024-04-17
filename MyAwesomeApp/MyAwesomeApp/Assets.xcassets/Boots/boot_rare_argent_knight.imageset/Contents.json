@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "scale" : "1x",
+      "filename" : "rare_argent_knight.png",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "rare_argent_knight@2x.png",
+      "scale" : "2x",
+      "idiom" : "universal"
+    }
+  ]
+}

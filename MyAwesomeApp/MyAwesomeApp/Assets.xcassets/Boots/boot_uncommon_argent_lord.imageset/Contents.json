@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "filename" : "uncommon_argent_lord.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "uncommon_argent_lord@2x.png",
+      "idiom" : "universal"
+    }
+  ]
+}

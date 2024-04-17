@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "legendary_argent_soldier.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "legendary_argent_soldier@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  }
+}

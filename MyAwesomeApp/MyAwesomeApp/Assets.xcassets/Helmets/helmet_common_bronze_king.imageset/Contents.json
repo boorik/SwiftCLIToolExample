@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "common_bronze_king.png"
+    },
+    {
+      "filename" : "common_bronze_king@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

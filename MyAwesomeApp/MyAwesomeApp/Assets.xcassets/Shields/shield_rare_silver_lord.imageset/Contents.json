@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "rare_silver_lord.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "rare_silver_lord@2x.png",
+      "scale" : "2x",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  }
+}

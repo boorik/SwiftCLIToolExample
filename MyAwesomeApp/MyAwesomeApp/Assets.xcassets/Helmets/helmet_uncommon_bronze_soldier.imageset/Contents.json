@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "uncommon_bronze_soldier.png"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "uncommon_bronze_soldier@2x.png"
+    }
+  ],
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  }
+}

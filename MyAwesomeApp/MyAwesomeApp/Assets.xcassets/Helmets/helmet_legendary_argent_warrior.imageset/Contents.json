@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  },
+  "images" : [
+    {
+      "scale" : "1x",
+      "idiom" : "universal",
+      "filename" : "legendary_argent_warrior.png"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "legendary_argent_warrior@2x.png",
+      "idiom" : "universal"
+    }
+  ]
+}

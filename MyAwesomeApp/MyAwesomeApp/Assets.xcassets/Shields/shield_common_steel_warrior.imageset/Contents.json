@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "common_steel_warrior.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "common_steel_warrior@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  }
+}

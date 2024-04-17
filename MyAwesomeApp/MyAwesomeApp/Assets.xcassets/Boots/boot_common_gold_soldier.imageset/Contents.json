@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "common_gold_soldier.png",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "common_gold_soldier@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "legendary_steel_warrior.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "legendary_steel_warrior@2x.png"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "relic_gold_lord.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "relic_gold_lord@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  }
+}

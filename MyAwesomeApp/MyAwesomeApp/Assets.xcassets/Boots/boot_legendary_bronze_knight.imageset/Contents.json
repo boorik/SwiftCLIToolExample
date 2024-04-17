@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "legendary_bronze_knight.png"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "legendary_bronze_knight@2x.png",
+      "idiom" : "universal"
+    }
+  ]
+}

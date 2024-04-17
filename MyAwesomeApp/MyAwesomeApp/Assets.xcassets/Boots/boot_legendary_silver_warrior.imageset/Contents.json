@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "filename" : "legendary_silver_warrior.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "legendary_silver_warrior@2x.png"
+    }
+  ]
+}

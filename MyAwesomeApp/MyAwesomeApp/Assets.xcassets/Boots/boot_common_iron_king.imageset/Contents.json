@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "scale" : "1x",
+      "idiom" : "universal",
+      "filename" : "common_iron_king.png"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "common_iron_king@2x.png",
+      "idiom" : "universal"
+    }
+  ]
+}

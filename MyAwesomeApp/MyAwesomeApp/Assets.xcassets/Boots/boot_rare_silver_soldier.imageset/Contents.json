@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "rare_silver_soldier.png"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "rare_silver_soldier@2x.png"
+    }
+  ],
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  }
+}

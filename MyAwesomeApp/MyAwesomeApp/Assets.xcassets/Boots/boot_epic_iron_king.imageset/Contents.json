@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "epic_iron_king.png",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "epic_iron_king@2x.png",
+      "idiom" : "universal"
+    }
+  ]
+}

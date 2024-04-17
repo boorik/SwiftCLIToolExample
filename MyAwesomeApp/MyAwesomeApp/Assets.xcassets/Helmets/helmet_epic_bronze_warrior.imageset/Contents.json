@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "epic_bronze_warrior.png"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "epic_bronze_warrior@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  }
+}

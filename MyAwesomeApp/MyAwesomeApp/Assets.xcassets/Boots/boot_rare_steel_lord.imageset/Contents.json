@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "rare_steel_lord.png",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "rare_steel_lord@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  }
+}

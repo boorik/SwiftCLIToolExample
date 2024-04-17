@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "filename" : "rare_silver_king.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "rare_silver_king@2x.png"
+    }
+  ]
+}

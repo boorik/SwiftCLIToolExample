@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "legendary_gold_knight.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "legendary_gold_knight@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  }
+}

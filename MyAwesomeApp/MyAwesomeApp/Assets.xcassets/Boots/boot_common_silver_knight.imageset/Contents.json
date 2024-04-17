@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "filename" : "common_silver_knight.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "common_silver_knight@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

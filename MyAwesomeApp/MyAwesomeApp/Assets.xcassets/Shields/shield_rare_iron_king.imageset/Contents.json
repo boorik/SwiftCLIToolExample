@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "rare_iron_king.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "rare_iron_king@2x.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  }
+}

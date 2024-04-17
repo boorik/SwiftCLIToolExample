@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "common_bronze_warrior.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "common_bronze_warrior@2x.png"
+    }
+  ],
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  }
+}

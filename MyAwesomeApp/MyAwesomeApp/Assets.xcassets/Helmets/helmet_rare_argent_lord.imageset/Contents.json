@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "rare_argent_lord.png"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "rare_argent_lord@2x.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  }
+}

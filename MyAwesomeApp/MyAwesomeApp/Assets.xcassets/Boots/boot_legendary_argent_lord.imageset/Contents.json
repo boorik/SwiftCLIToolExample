@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "legendary_argent_lord.png",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "legendary_argent_lord@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  }
+}

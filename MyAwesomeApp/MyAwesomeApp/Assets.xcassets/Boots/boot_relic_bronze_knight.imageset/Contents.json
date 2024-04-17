@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "relic_bronze_knight.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "relic_bronze_knight@2x.png"
+    }
+  ],
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  }
+}

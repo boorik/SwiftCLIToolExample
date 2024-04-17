@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "rare_iron_king.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "rare_iron_king@2x.png"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  }
+}

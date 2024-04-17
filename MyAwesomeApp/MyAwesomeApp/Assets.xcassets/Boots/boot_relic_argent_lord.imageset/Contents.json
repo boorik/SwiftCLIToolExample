@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "relic_argent_lord.png"
+    },
+    {
+      "filename" : "relic_argent_lord@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

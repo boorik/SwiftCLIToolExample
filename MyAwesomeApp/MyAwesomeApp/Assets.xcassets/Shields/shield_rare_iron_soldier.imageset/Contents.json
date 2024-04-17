@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  },
+  "images" : [
+    {
+      "scale" : "1x",
+      "idiom" : "universal",
+      "filename" : "rare_iron_soldier.png"
+    },
+    {
+      "filename" : "rare_iron_soldier@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "filename" : "legendary_bronze_lord.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "legendary_bronze_lord@2x.png"
+    }
+  ]
+}

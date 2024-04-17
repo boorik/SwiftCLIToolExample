@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "scale" : "1x",
+      "filename" : "legendary_steel_soldier.png",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "legendary_steel_soldier@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  }
+}

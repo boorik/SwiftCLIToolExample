@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "filename" : "rare_gold_soldier.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "rare_gold_soldier@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "scale" : "1x",
+      "filename" : "uncommon_steel_knight.png",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "uncommon_steel_knight@2x.png"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  }
+}

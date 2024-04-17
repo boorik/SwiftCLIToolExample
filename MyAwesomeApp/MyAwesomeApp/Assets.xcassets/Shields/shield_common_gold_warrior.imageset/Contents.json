@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "common_gold_warrior.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "common_gold_warrior@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  }
+}

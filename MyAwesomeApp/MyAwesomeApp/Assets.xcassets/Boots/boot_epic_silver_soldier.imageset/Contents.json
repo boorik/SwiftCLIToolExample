@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "scale" : "1x",
+      "filename" : "epic_silver_soldier.png",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "epic_silver_soldier@2x.png",
+      "scale" : "2x",
+      "idiom" : "universal"
+    }
+  ]
+}

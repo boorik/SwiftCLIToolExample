@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "epic_silver_knight.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "epic_silver_knight@2x.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  }
+}

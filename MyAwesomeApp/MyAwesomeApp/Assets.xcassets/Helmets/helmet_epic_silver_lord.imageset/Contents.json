@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "filename" : "epic_silver_lord.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "epic_silver_lord@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

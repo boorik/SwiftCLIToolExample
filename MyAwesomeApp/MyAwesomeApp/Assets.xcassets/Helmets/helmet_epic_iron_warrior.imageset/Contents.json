@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "epic_iron_warrior.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "epic_iron_warrior@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  }
+}

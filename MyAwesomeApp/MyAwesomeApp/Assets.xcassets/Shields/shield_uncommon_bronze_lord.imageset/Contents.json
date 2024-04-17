@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "uncommon_bronze_lord.png"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "uncommon_bronze_lord@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  }
+}

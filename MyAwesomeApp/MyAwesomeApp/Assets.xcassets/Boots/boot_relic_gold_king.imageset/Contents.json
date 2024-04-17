@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "filename" : "relic_gold_king.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "relic_gold_king@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

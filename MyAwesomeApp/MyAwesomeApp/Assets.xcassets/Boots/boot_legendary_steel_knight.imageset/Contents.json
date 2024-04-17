@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "legendary_steel_knight.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "legendary_steel_knight@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  }
+}

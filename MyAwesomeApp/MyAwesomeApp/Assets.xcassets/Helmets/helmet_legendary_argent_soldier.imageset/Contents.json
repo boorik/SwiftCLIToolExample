@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "legendary_argent_soldier.png",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "legendary_argent_soldier@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  }
+}

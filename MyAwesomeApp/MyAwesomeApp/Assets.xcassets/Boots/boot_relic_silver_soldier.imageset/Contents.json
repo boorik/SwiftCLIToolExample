@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "relic_silver_soldier.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "relic_silver_soldier@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  }
+}

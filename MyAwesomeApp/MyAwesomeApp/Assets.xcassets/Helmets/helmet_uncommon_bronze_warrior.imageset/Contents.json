@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "uncommon_bronze_warrior.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "uncommon_bronze_warrior@2x.png"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  }
+}

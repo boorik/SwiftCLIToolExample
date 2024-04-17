@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "epic_argent_soldier.png"
+    },
+    {
+      "filename" : "epic_argent_soldier@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

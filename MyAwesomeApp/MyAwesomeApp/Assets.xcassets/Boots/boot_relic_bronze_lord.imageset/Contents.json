@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "relic_bronze_lord.png",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "relic_bronze_lord@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

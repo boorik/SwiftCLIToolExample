@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "epic_gold_knight.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "epic_gold_knight@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  }
+}

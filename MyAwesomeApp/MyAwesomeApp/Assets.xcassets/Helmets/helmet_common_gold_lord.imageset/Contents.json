@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "common_gold_lord.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "common_gold_lord@2x.png"
+    }
+  ],
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  }
+}

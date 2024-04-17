@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "assetImporter"
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "rare_argent_soldier.png"
+    },
+    {
+      "filename" : "rare_argent_soldier@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

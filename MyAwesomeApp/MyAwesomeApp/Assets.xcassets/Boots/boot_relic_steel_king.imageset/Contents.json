@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "filename" : "relic_steel_king.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "relic_steel_king@2x.png"
+    }
+  ],
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  }
+}

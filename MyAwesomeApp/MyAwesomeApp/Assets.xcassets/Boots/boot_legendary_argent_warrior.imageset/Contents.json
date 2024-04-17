@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "filename" : "legendary_argent_warrior.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "legendary_argent_warrior@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

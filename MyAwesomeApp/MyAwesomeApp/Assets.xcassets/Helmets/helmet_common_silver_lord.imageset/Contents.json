@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "AssetManipulator"
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "common_silver_lord.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "common_silver_lord@2x.png",
+      "scale" : "2x"
+    }
+  ]
+}

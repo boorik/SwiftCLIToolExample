@@ -1,0 +1,18 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "epic_silver_lord.png",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "epic_silver_lord@2x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  }
+}

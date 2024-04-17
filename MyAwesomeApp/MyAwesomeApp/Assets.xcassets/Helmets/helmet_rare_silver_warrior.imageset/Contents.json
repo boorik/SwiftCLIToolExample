@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "AssetManipulator",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "rare_silver_warrior.png",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "rare_silver_warrior@2x.png",
+      "idiom" : "universal"
+    }
+  ]
+}

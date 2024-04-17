@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "scale" : "1x",
+      "filename" : "uncommon_bronze_king.png",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "uncommon_bronze_king@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

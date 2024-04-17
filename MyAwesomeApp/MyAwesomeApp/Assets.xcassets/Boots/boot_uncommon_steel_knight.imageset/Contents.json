@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "filename" : "uncommon_steel_knight.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "uncommon_steel_knight@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}

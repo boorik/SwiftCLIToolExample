@@ -1,0 +1,18 @@
+{
+  "info" : {
+    "author" : "assetImporter",
+    "version" : 1
+  },
+  "images" : [
+    {
+      "filename" : "epic_argent_knight.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "epic_argent_knight@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ]
+}
