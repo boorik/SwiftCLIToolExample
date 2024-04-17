@@ -1,1 +1,1 @@
-# SwiftCLIToolExemple
+# SwiftCLIToolExample
