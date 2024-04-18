@@ -124,17 +124,6 @@ package struct ImageImporter {
         displayExecutionReport(success: success, errors: errors)
     }
 
-//    package func importMultipleFolders(
-//        sourceFolder: URL,
-//        destinationFolder: URL,
-//        createImageset: Bool = false
-//    ) {
-//        try fileManager.contentsOfDirectory(at: sourceFolder, includingPropertiesForKeys: [.isDirectoryKey]).forEach { directory in {
-//            let folder = destinationFolder.appending(component: directory.lastPathComponent)
-//            importOneFolder(sourceFolder: directory.absoluteString, destinationFolder: folder)
-//        }
-//    }
-
     private func checkIfImagesetExists(_ imagesetPath: String, shouldCreate: Bool) throws {
         if !fileManager.fileExists(atPath: imagesetPath) {
             if shouldCreate {

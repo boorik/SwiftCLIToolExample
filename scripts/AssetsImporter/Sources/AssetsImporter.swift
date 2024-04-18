@@ -55,7 +55,40 @@ struct AssetsImporter: ParsableCommand {
         commandName: "AssetsImporter",
         abstract: "import assets provided by Random Company to Resources",
         usage: nil,
-        discussion: "imagesets should exists",
+        discussion: """
+Images are provided with this structure:
+
+root folder/
+├─ boot/
+│  ├─ [rarity]_[metal]_[rank].png
+│  ├─ rare_iron_soldier.png
+├─ helmet/
+│  ├─ [rarity]_[metal]_[rank].png
+│  ├─ rare_iron_soldier.png
+├─ shield/
+│  ├─ [rarity]_[metal]_[rank].png
+│  ├─ rare_iron_soldier.png
+
+The application uses this structure:
+
+Assets/
+├─ Boots/
+│  ├─ boot_rare_iron_soldier.imageset/
+│  │  ├─ rare_iron_soldier.png
+│  │  ├─ rare_iron_soldier@2x.png
+│  │  ├─ Contents.json
+│  ├─ boot_[rarity]_[metal]_[rank].imageset/
+│  │  ├─ [rarity]_[metal]_[rank].png
+│  │  ├─ [rarity]_[metal]_[rank]@2x.png
+│  │  ├─ Contents.json
+├─ Helmets/
+├─ Shields/
+
+This tools ensure the conversion of the first structure to the last one.
+
+The source folder should be either boot/helmet/shield folder
+The destination should be either Boots/Helmets/Shields folder
+""",
         version: "1.0.0",
         shouldDisplay: true,
         subcommands: [],
@@ -70,21 +103,11 @@ struct AssetsImporter: ParsableCommand {
     var destinationFolder: String
 
     @Flag(help: "Create imagesets if not exists. Should be use only after a first run to see if asset naming is good.")
-    var createImageset: Bool = false    
-
-    @Flag(help: "Loop on all folders in the source folder")
-    var multipleFolder: Bool = false
+    var createImageset: Bool = false
 
     mutating func run() throws {
         let importer = ImageImporter()
-//        if multipleFolder {
-//            try importer.importMultipleFolders(
-//                sourceFolder: sourceFolder,
-//                destinationFolder: destinationFolder,
-//                createImageset: createImageset
-//            )
-//            return
-//        }
+
         try importer.importOneFolder(
             sourceFolder: sourceFolder,
             destinationFolder: destinationFolder,
